@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588405332 source:c:\users\david\onedrive\desktop\coding\atm\personalatm\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
